@@ -3,9 +3,9 @@
 {
 "accountBalanceInCents": 985000,
 "accountCurrency": "EUR",
-"accountId": 748757694,
+"accountId": "748757694",
 "accountName": "Hr P L G N StellingTD",
-"accountNumber": 748757694,
+"accountNumber": "748757694",
 "accountType": "PAYMENT",
 "alias": "",
 "isVisible": true,
@@ -14,9 +14,9 @@
 {
 "accountBalanceInCents": 1000000,
 "accountCurrency": "EUR",
-"accountId": 700000027559,
+"accountId": "700000027559",
 "accountName": ",",
-"accountNumber": 748757732,
+"accountNumber": "748757732",
 "accountType": "PAYMENT",
 "alias": "",
 "isVisible": false,
@@ -25,7 +25,7 @@
 {
 "accountBalanceInCents": 15000,
 "accountCurrency": "EUR",
-"accountId": 700000027559,
+"accountId": "700000027559",
 "accountName": "",
 "accountNumber": "H 177-27066",
 "accountType": "SAVING",
